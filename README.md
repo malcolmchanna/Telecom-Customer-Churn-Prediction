@@ -19,4 +19,4 @@
 <h2>Usage</h2>
 <p>To run the project code, open the telecom_customer_churn.ipynb file in Jupyter Notebook and run each cell sequentially. The code contains detailed comments explaining each step of the process.</p>
 <h2>Credits</h2>
-<p>The Telecom Customer Churn Dataset is sourced from <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn">CLick here</a>. The project code is written by [muzamil channa].</p>
+<p>The Telecom Customer Churn Dataset is sourced from <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn">Click here</a>. The project code is written by [muzamil channa].</p>
